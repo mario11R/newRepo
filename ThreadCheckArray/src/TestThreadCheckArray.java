@@ -1,6 +1,18 @@
 import java.util.Scanner;
 
+/**
+ * @author mario
+ * @author nadav
+ *
+ */
+
 public class TestThreadCheckArray {
+	
+	/**
+	 * @param args
+	 */
+	
+	
 	public static void main(String[] args) {
 		try (Scanner input = new Scanner(System.in)) {
 			Thread thread1, thread2;
